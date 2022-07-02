@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    border: 3px solid #5B84B1FF;
+    width: 350px;
+    display: flex;
+    align-items: center;
+    background-color: #FC766AFF;
+}
+
+.first_name {
+    margin-top: 5px;
+}
+
+button {
+    margin-bottom: 5px;
+}
+
+.containAll {
+    display: flex;
+    justify-content: center;
+}
+
+.container2 {
+    border: 3px solid #5B84B1FF;
+    width: 350px;
+    text-align: center;
+    background-color: #FC766AFF;
+}
